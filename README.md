@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+The Following repo conatins only Frontend . For Backend refer to Notesoriginal repo.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
